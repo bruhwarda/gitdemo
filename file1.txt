@@ -5,3 +5,5 @@ the line also represent feature1
 this line is feature2
 this line also represents feature2
 this line is also feature2
+this line is feature3
+this line is also feature3
